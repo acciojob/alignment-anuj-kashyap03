@@ -3,6 +3,9 @@ table{
 	border: 1px solid black;
 	margin:1px;
 }
+td{
+	padding:1px;
+}
 .blue{
 	background-color:blue;
 }
